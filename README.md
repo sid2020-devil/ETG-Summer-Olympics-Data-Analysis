@@ -7,7 +7,7 @@
 This project deals with data analysis. In this project some questions of a given dataset .csv file is answered with the help of Python. This project would be a great beginning for 
 all those data analysts who want to emerge in this field.
 
-<img src = "C:\Users\Sidharth\Desktop\ETG-Olympics-Data-Analysis\images">
+<img src = "C:\Users\Sidharth\Desktop\ETG-Olympics-Data-Analysis\images\image.png">
 
 ### Files In  This Project
 
