@@ -1,4 +1,4 @@
-< h1 = "ETG-Summer-Olympics-Data-Analysis" align ="center"></h1>
+# ETG-Summer-Olympics-Data-Analysis
 
 ### SKILL ML AI INTERNSHIP
 
