@@ -1,6 +1,6 @@
-#                                           ETG-Summer-Olympics-Data-Analysis
+< h1 = "ETG-Summer-Olympics-Data-Analysis" align ="center"></h1>
 
-###                                            SKILL ML AI INTERNSHIP
+### SKILL ML AI INTERNSHIP
 
 <img src = "https://www.elitetechnogroups.com/images/logo.png">
 
