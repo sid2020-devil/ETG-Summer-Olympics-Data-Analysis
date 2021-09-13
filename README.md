@@ -1,6 +1,6 @@
-# ETG-Summer-Olympics-Data-Analysis
+#                                           ETG-Summer-Olympics-Data-Analysis
 
-### SKILL ML AI INTERNSHIP
+###                                            SKILL ML AI INTERNSHIP
 
 <img src = "https://www.elitetechnogroups.com/images/logo.png">
 
