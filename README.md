@@ -4,7 +4,7 @@
 
 ### SKILL ML AI INTERNSHIP
 
-<img src = "images/etg_logo.png"  style = "width : 130%" >
+<img src = "images/etg_logo.png"  style = "width : 100%" >
 
 This project deals with data analysis. In this project some questions of a given dataset .csv file is answered with the help of Python. This project would be a great beginning for 
 all those data analysts who want to emerge in this field.
