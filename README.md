@@ -1,5 +1,7 @@
 # ETG-Summer-Olympics-Data-Analysis
 
+<img src = "images/olympics.png">
+
 ### SKILL ML AI INTERNSHIP
 
 <img src = "https://www.elitetechnogroups.com/images/logo.png">
