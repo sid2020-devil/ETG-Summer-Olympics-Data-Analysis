@@ -13,10 +13,11 @@ all those data analysts who want to emerge in this field.
 ### Files In  This Project
 
 1. Summer.csv - The dataset containing olympics record.
-2. Summer.ipynb - The Jupyter Notebook file in which all the questions are solved using Python
+2. Summer.ipynb - The file  containing all the queations related to the project 
+3. Summer Olympics Data Analysis.ipynb - The Jupyter Notebook file in which all the questions are solved using Python
 
 ### About Author
-Hi, I'm Sidharth S Unnithan, a sophomore CSE undergrad at Jyothi Engineering College, Thrissur, Kerala. Keen tech enthusiast and entrpreneur.
+Hi, I'm Sidharth S Unnithan, a sophomore CSE undergrad at Jyothi Engineering College, Thrissur, Kerala. Keen tech enthusiast and entrepreneur.
 
 ### Contact Info
 
