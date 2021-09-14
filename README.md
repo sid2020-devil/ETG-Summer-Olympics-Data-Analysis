@@ -1,6 +1,6 @@
 # ETG-Summer-Olympics-Data-Analysis
 
-<img src = "images/olympics.png">
+<img src = "images/olympics.png" style = "width : 50%">
 
 ### SKILL ML AI INTERNSHIP
 
